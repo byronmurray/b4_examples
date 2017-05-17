@@ -1,10 +1,6 @@
-section, footer {
-  border: 20px solid #222;
-  border-bottom: none; }
-
-body {
-  border-bottom: 20px solid #222; }
-
+iframe {
+  max-width: 100%;
+}
 body {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -872,8 +868,8 @@ li.nav-item .btn-white {
   .pricing-table-5 .col-pricing-table.bg-primary ul.plan-feature-list li, .pricing-table-5 .col-pricing-table.bg-secondary ul.plan-feature-list li, .pricing-table-5 .col-pricing-table.bg-info ul.plan-feature-list li, .pricing-table-5 .col-pricing-table.bg-success ul.plan-feature-list li, .pricing-table-5 .col-pricing-table.bg-warning ul.plan-feature-list li, .pricing-table-5 .col-pricing-table.bg-danger ul.plan-feature-list li {
     color: #f7f7f8; }
 
-.contact-1, .contact-2 {
-  padding: 0 0 5rem 0; }
+/* .contact-1, .contact-2 {
+  padding: 0 0 5rem 0; } */
   .contact-1 .contact-details, .contact-2 .contact-details {
     padding-top: 5rem;
     padding-bottom: 1rem; }
@@ -1046,7 +1042,7 @@ li.nav-item .btn-white {
   background: #2b2d34;
   width: 100%;
   color: #fff;
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: .5rem; }
   .footer-4 .container-fluid {
     padding: 0; }
